@@ -1,4 +1,4 @@
-The Tips dataset is a data frame with 
+# The Tips dataset is a data frame with 
 -244 rows and 7 variables 
 -which represents some tipping data where one waiter recorded information about each tip he received over a period of a few months working in one restaurant.
 -In all the waiter recorded 244 tips. 
